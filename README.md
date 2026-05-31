@@ -26,9 +26,10 @@ Google Fonts: Integrated high-weight sans-serif fonts for that "bold" look.
 Images: High-resolution transparent PNGs to achieve the "overlapping" character effect.
 
 🚀 How to Run
-Clone this repository.
+- Clone this repository.
 
 ✨ Live link 
+-https://asif-mehraj.github.io/POKEMON/
 
 
 Open index.html in any modern web browser.
