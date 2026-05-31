@@ -29,7 +29,7 @@ Images: High-resolution transparent PNGs to achieve the "overlapping" character 
 - Clone this repository.
 
 ✨ Live link 
--https://asif-mehraj.github.io/POKEMON/
+- https://asif-mehraj.github.io/POKEMON/
 
 
 Open index.html in any modern web browser.
